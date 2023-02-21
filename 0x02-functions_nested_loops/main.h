@@ -1,6 +1,5 @@
-#ifndef main_h
-#define main_h
-#include <studio.h>
+#ifndef MAIN_H
+#define MAIN_H
 
 int _putchar(char);
 void print_alphabet(void);
