@@ -1,6 +1,3 @@
-
-Task 5. 5-more_numbers.c
-
 #include "main.h"
 
 /**
